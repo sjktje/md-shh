@@ -10,6 +10,6 @@
 
 # TODO
 
-  [ ] Ordna Makefile/fabfile för kompilering. Kanske fabfile som även kan användas för att mejla iväg en fil osv?
-  [ ] Undersök möjligheterna att göra en titelsida enligt högskolans specifikationer.
-  [ ] Skriv en vettig README :-)
+  * [ ] Ordna Makefile/fabfile för kompilering. Kanske fabfile som även kan användas för att mejla iväg en fil osv?
+  * [ ] Undersök möjligheterna att göra en titelsida enligt högskolans specifikationer.
+  * [ ] Skriv en vettig README :-)
