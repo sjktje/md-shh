@@ -1,10 +1,12 @@
 ---
-title: Dokumentets titel
-author: Svante Kvarnström
-bibliography: kurslitteratur.bib
+title:          Dokumentets titel
+author:         Svante Kvarnström
+bibliography:
+  - kurslitteratur.bib
+  - artiklar.bib
 citation-style: apa.csl
-locale: sv-SE
-lang: swedish
+locale:         sv-SE
+lang:           swedish
 ---
 
 # Här är
